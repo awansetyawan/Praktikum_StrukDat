@@ -1,6 +1,6 @@
 # Mangan.
 ## Tentang
-Sistem Kunjungan Lapas Online untuk Projek Akhir Algoritma Pemrograman Online Informatika A 2021
+Sistem Pemesanan Makan untuk Projek Akhir Struktur Data Informatika A 2021
 
 ## Anggota
 1. **2109106002** Alif Maulana Setyawan
